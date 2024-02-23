@@ -1,2 +1,15 @@
-# testando-foreach-java
-Exercício da utilização da estrutura de repetição 'foreach' para percorrer um 'array' de notas de alunos em uma turma, apresentando no console as notas e destacando as maiores e menores notas.
+# Programa: Testando a estrutura ForEach!
+- Data: 23/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um programa de baixa complexidade da utilização da estrutura de repetição 'foreach' para percorrer um 'array' de notas de alunos em uma turma, apresentando no console as notas e destacando as maiores e menores notas.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println();
+  - Método: 'objeto'.length';
+  - Estrutura de repetição: 'foreach';
+  - Estrutura condicional: 'if';
+  - Operador relacional: '<' e '>=';
+  - Concatenação;
+  - Operador unário: pós-fixado ('variável'++)
+  - Biblioteca: java.util.Random;
+  - Biblioteca: java.util.Arrays;
